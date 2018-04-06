@@ -1,0 +1,142 @@
+Elon Musk Summary
+-----------------
+Elon Musk was born on June 28, 1971, in Pretoria, South Africa.
+Left Stanford PhD program after 2 days.
+On August 12, 2013, Musk announced revolutionary plans for a high speed travel technology that, in theory, could replace airplane travel as a faster and cheaper option. His company ‘SpaceX’ is currently working on putting his plans into practice, with the design intended to run entirely on solar energy.
+In July 2017, he announced the 1st successful test run of Hyperloop has been done in Nevada. Got verbal approval to build a hyperloop from NY to Washington D.C.
+SpaceX has completed several contracts for NASA.
+CEO of Tesla & SpaceX.
+
+
+Example Contact Us
+------------------
+888 Brannan St (at 8th St)
+San Francisco, CA 94103
+United States
+United States	+1-415-800-5959 +1-855-424-7262 (toll-free)
+United Kingdom	+44 203 318 1111
+Australia	+61 2 8520 3333
+Canada 1-855-424-7262
+China	+86 10 5904 5310
+Hong Kong	+852 5808 8888
+Japan	+81 3 4580 0999
+Singapore +65 6999 9999 
+
+
+Example Letter
+--------------
+April 25, 2017
+Mr. Jeffrey Jones, Recruiting Manager
+Council on Foreign Relations
+58 East 68th Street
+New York, NY 10065
+Dear Mr. Jones,
+I write to apply for the Research Associate position in the Asia Studies program at the Council on Foreign Relations (CFR). ... 
+
+
+Example Donation Form
+----------------------------
+Hello, Mr. Edwards, we're writing to request for a donation of $10/20/50 for needy children. Should you wish to donate, please fill up the following fields.
+Name John D Edwards
+Birthday 2/27/1971 
+326a Whatever Street 03254
+Phone 603-476-5998
+Mobile 603-385-7175
+Credit Card Number 5524026804480334 CVV2 244 Expires 9/2021
+
+Example In-the-wild Content
+---------------------------
+1. 1-12-15 Blah blah blah buy xyz send 4 BTC to 1LgvButDNV2rVHe9DATt6WqE8tKZEKvaK2.
+2. 2/22/2015 BLah blah blah blah scam scam scam 3 LTC to get 4 LTC in return. LKKSCYdyWP7fJDMZ1KUDbpj3yPmQ22MQrv shill wanna buy lambo. 1,000,000 € yay yay blah. :)
+3. 17.01.2017  Selling 25 blah blah at $123 !! come get it while it's hot.
+4. 4 apr 18  FB at $150. Buy blah blah blah. Tech sector at a bargain MSFT, GOOG, NVDIA, BABA. Much wow. buy buy buy. :D :D :D
+5. 11 sep  Cheap and trustworthy accommodation for 10000 ¥ ! Prev. at 12000¥ per night.
+6. 01.20.18  Selling 1BTC for 10,234 USD. YOLO. FOMO. blah blah. to the moon. rockets and all. hodlers! yeah!
+7. March 16th, 2015 COntact me at tom.l_jones@gmail.com or tommy+spamorham@hotmail.com to get more info.
+8. Jul. 22th, 2015 the ahem secret event is on 1 April 2016 9:00 am to 2 Apr 21:00. Visti google.com for more info.
+9. 28 Jun 2001 Download ftp://ftp.funet.fi/pub/standards/RFC/rfc959.txt and ftp://ftp.funet.fi/pub/standards/RFC/rfc959.txt to learn more about RFCs. Feel fee to contact me t (123)111-2222 ext 897.
+10. 12-08-2012 delive rto PO Box 123456. hse at 456 woodsville ave. Need by 15 Aug 11:30A.M.
+11. Let's hav ea discussion at blk 54a Turing st. #06-14. maybe 16 Apr 10.15 to 1130??
+
+
+https://news.ycombinator.com/
+------------------------------
+	Hacker News new | comments | show | ask | jobs | submit	login
+1.	
+Google Workers Urge C.E.O. To Pull Out of Pentagon A.I. Project (nytimes.com)
+467 points by s3r3nity 3 hours ago | hide | 366 comments
+2.	
+OpenSimpleLidar (github.com)
+93 points by lovelearning 1 hour ago | hide | 19 comments
+3.	
+Netflix FlameScope (medium.com)
+117 points by brendangregg 2 hours ago | hide | 25 comments
+4.	
+Show HN: I made a Chrome extension to reveal zero-width characters (github.com)
+175 points by chpmrc 4 hours ago | hide | 57 comments
+5.	
+AWS Secrets Manager – Store, Distribute, and Rotate Credentials Securely (amazon.com)
+37 points by dustinrcollins 47 minutes ago | hide | 4 comments
+6.	
+Large crack in East African Rift is evidence of continent splitting in two (theconversation.com)
+31 points by lovelearning 1 hour ago | hide | 9 comments
+7.	
+Pharo MOOC (pharo.org)
+158 points by brudgers 4 hours ago | hide | 33 comments
+8.	
+Brain-stimulation trials get personal to lift depression (nature.com)
+36 points by lainon 2 hours ago | hide | 7 comments
+9.	
+JavaScript to Rust and Back Again: A Wasm-Bindgen Tale (hacks.mozilla.org)
+116 points by steveklabnik 3 hours ago | hide | 11 comments
+10.	
+Lessons from “The Profit” (marginalrevolution.com)
+113 points by jseliger 4 hours ago | hide | 24 comments
+11.	
+Toilet paper is technology (sapiens.org)
+17 points by JoachimOfFiore 1 hour ago | hide | 8 comments
+12.	
+Instagram's 'virtual' celebrities (bbc.com)
+152 points by timoth 6 hours ago | hide | 77 comments
+
+
+Example IPv4 IPv6
+-------------------
+In the DNS servers field, enter the Google Public DNS IP addresses, separated by a comma: For IPv4: 8.8.8.8 and/or 8.8.4.4. For IPv6: 2001:4860:4860::8888 and/or 2001:4860:4860::8844.Jun 3, 2016
+Get Started | Public DNS | Google Developers
+https://developers.google.com/speed/public-dns/docs/using
+
+Proxies
+IP Address	Port	Code	Anonymity	Https
+  50.233.137.36	80	US	anonymous	no
+**  66.82.123.234	8080	US	elite proxy	no
+*   66.82.144.29	8080	US	elite proxy	yes
+159.122.233.240	80	US	anonymous	no
+159.65.110.167	3128	US	anonymous	yes
+*      167.99.64.242	8080	US	elite proxy	no
+*** 47.206.51.67	8080	US	elite proxy	no
+168.235.93.162	8080	US	anonymous	no
+4
+
+Example of Full and Collapsed IPv6 Address
+Here is an example of a full IPv6 address:
+
+FE80:0000:0000:0000:0202:B3FF:FE1E:8329
+It shows a 128-bit address in eight 16-bit blocks in the format global:subnet:interface.
+
+Here is an example of a collapsed IPv6 address:
+FE80::0202:B3FF:FE1E:8329
+The :: (consecutive colons) notation can be used to represent four successive 16-bit blocks that contain zeros. When SAS software encounters a collapsed IP address, it reconstitutes the address to the required 128-bit address in eight 16-bit blocks.
+
+Example of an IPv6 Address That Includes a Port Number
+Here is an example of an IP address that contains a port number:
+[2001:db8:0:1]:80
+The brackets are necessary only if also specifying a port number. Brackets are used to separate the address from the port number. If no port number is used, the brackets can be omitted.
+
+As an alternative, the block that contains a zero can be collapsed. Here is an example:
+
+[2001:db8::1]:80
+Example of an IPv6 Address That Includes a URL
+Here is an example of an IP address that contains a URL:
+http://[2001:db8:0:1]:80
+The http:// prefix specifies a URL. The brackets are necessary only if also specifying a port number. Brackets are used to separate the address from the port number. If no port number is used, the brackets can be omitted.
